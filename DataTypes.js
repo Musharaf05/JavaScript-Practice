@@ -1,3 +1,3 @@
 /* Data Types:
-undefined, null, boolean, string, symbol, number, and object
+undefined, null, boolean, string, symbol, bigint, number, and object(Non-primitive)
 */
