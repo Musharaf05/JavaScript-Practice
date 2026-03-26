@@ -1,5 +1,6 @@
 let x
 
+// we can't reassign value of the const variable but we can change the const array elements
 const numbers=[12, 30, 44, 21, 16, 10]
 const fruits=["Apple","Orange","Watermelon"]
 const mixed=[10,"hello",13]
