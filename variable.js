@@ -22,7 +22,7 @@ age = 52;
 
 let name, salary, department;
 
-salary = null;
+salary = 50000;
 
 /*
 - **Primitive Data Types:**
