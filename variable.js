@@ -39,6 +39,11 @@ salary = null;
     - `Function` - Code that can be executed
   */
 
+    /*
+      Primitive Data Types uses Stack Memory
+      Non-Primitive Data Types uses Heap Memory
+    */
+
 let student = {
   name: "Alice",
   age: 22,
