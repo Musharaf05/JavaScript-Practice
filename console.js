@@ -16,4 +16,4 @@ console.error('Alert'); // It shows this message with red color background in br
 console.warn('Warning');// It shows this message with yellow color background in browser console
 
 // printing objects values in the form of table
-console.table({name:'Alice',age:20});
+console.table({name:'Alice',age:20,isOnline:true,address:undefined}); // It shows this message in the form of table in browser console
